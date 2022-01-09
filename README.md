@@ -13,3 +13,5 @@ https://github.com/AlexRoncalli
 
 
 OBS: Os dados do Enem estão no link a seguir, pois ele é maior que o tamanho suportado para commit comum: https://drive.google.com/file/d/1zb1o7oDydhIMlzTSAggfQ4TQqpfRWndg/view?usp=sharing
+
+Notebook executado em => https://colab.research.google.com/drive/1WZIfAARZ8ran3_pvcskWWcloTvzj9eKg?usp=sharing
